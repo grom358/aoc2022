@@ -1,0 +1,8 @@
+(executable
+  (name part1)
+  (modules part1)
+  (libraries core stdio str))
+(executable
+  (name part2)
+  (modules part2)
+  (libraries core stdio str))
