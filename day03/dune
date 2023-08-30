@@ -1,0 +1,8 @@
+(executable
+  (name day03p1)
+  (modules day03p1)
+  (libraries core stdio str))
+(executable
+  (name day03p2)
+  (modules day03p2)
+  (libraries core stdio str))
