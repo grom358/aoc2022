@@ -1,0 +1,3 @@
+(executable
+  (name day15)
+  (libraries core stdio re))
