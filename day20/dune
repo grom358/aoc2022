@@ -1,0 +1,3 @@
+(executable
+  (name day20)
+  (libraries core stdio))
