@@ -1,0 +1,4 @@
+(executable
+  (name day24)
+  (libraries core stdio core_kernel.pairing_heap)
+  (preprocess (pps ppx_jane)))
